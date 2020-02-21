@@ -1,4 +1,3 @@
-# frozen_string_literal: true
-
+# this helper isn't used yet
 module WelcomeHelper
 end

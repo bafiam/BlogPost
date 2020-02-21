@@ -1,5 +1,4 @@
-# frozen_string_literal: true
-
+# This class contains the controller for all operations related to user
 class UsersController < ApplicationController
   before_action :set_user, only: %i[show edit update destroy]
 
@@ -57,6 +56,7 @@ class UsersController < ApplicationController
     @user.destroy
     respond_to do |format|
       format.html { redirect_to users_url, notice: 'User was successfully destroyed.' }
+
       format.json { head :no_content }
     end
   end
