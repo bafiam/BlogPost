@@ -8,7 +8,7 @@
     <img alt="Twitter: MohammedTouili " src="https://img.shields.io/twitter/follow/MohammedTouili.svg?style=social" />
   </a>
   <a href="https://twitter.com/Bafiam_steve " target="_blank">
-    <img alt="Twitter: Bafiam_steve " src="https://img.shields.io/twitter/follow/BafiamSteve.svg?style=social" />
+    <img alt="Twitter: Bafiam_steve " src="https://img.shields.io/twitter/follow/Bafiam_steve.svg?style=social" />
   </a>
 </p>
 
